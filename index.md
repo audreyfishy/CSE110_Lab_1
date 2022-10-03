@@ -6,7 +6,9 @@
     print("Hello World!");
 ***
 [GitHub](https://github.com/audreyfishy)
+
 [My Name section](#Takuro-Kitazawa)
+
 [README](README.md)
 
 Favorites:
